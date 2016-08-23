@@ -1,0 +1,6 @@
+{
+    "name": "linux-raid-by-ssh",
+    "description": "RAID checks for Linux by SSH, using check_raid nagios contrib plugin",
+    "path": "linux-raid-by-ssh",
+    "macros": {}
+}
