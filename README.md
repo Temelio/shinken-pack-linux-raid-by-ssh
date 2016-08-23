@@ -16,9 +16,9 @@ This pack require nagios-plugins and nagios-plugins-contrib to work.
 
 ### Services
 
-| Service name  | Description                          | Duplicate_foreach variable |
-|---------------|--------------------------------------|----------------------------|
-| RAID - $VALUE | Check RAID status for $VALUE$ plugin | _raid_plugins              |
+| Service name  | Description                        | Duplicate_foreach variable |
+|---------------|------------------------------------|----------------------------|
+| RAID - $KEY$  | Check RAID status for $KEY$ plugin | _raid_plugins              |
 
 ## Default values
 
