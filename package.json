@@ -1,0 +1,24 @@
+{
+    "name": "linux-raid-by-ssh",
+    "types": ["pack"],
+    "version": "0.1.0",
+    "homepage": "https://github.com/Temelio/shinken-pack-linux-raid-by-ssh",
+    "author": "Alexandre Chaussier",
+    "description": "RAID monitoring checks, using check_raid nagios contrib plugin by SSH",
+    "contributors": [
+        {
+            "name": "Alexandre Chaussier",
+            "email": "alexandre.chaussier@temelio.com"
+        }
+    ],
+    "repository": "https://github.com/Temelio/shinken-pack-linux-raid-by-ssh.git",
+   " keywords": [
+        "pack",
+        "ssh",
+        "raid"
+    ],
+   " dependencies": {
+        "shinken": ">=2.4.3"
+    },
+    "license": "MIT"
+}
